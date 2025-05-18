@@ -1,0 +1,7 @@
+Maxie has this project going on a minute
+
+black
+white
+blue
+
+...are all balls that can be picked randomly from a set of options
